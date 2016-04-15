@@ -15,36 +15,36 @@
 -->
 <resources>
     <!-- configuration for album set page -->
-    <color name="albumset_background">#ff21272b</color>
-    <color name="albumset_placeholder">#37474F</color>
-    <color name="albumset_label_background">#EE37474F</color>
+    <color name="albumset_background">#000000</color>
+    <color name="albumset_placeholder">#242424</color>
+    <color name="albumset_label_background">#404040</color>
     <color name="albumset_label_title">#FBFBFB</color>
     <color name="albumset_label_count">#A9ABAD</color>
 
     <!-- configuration for album page -->
-    <color name="album_background">#ff21272b</color>
-    <color name="album_placeholder">#37474F</color>
+    <color name="album_background">#000000</color>
+    <color name="album_placeholder">#242424</color>
 
     <!-- configuration for photo page -->
-    <color name="photo_background">#ff21272b</color>
-    <color name="photo_placeholder">#37474F</color>
+    <color name="photo_background">#000000</color>
+    <color name="photo_placeholder">#242424</color>
 
     <!-- configuration for manage cache page -->
-    <color name="cache_background">#ff21272b</color>
-    <color name="cache_placeholder">#37474F</color>
+    <color name="cache_background">#000000</color>
+    <color name="cache_placeholder">#242424</color>
 
-    <color name="bitmap_screennail_placeholder">#37474F</color>
+    <color name="bitmap_screennail_placeholder">#242424</color>
 
-    <color name="slideshow_background">#ff21272b</color>
+    <color name="slideshow_background">#000000</color>
 
-    <color name="button_dark_transparent_background">#263238</color>
+    <color name="button_dark_transparent_background">#363636</color>
 
     <color name="ingest_highlight_semitransparent">#8833b5e5</color>
-    <color name="ingest_date_tile_text">#33b5e5</color>
+    <color name="ingest_date_tile_text">#e5e5e5</color>
 
     <!-- FAB -->
-    <color name="fab">#FF9800</color>
-    <color name="floating_action_button_touch_tint">#FFB74D</color>
+    <color name="fab">#242424</color>
+    <color name="floating_action_button_touch_tint">#f0f0f0</color>
     <color name="floating_action_button_icon_color">#ffffff</color>
 
 </resources>
